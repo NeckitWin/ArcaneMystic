@@ -1,0 +1,10 @@
+[{
+  "modid": "arcaneadmin",
+  "name": "ArcaneAdmin"
+  "description": "Мод для администрации ArcaneWorld!",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "arcaneworld.su",
+  "authorList": ["NeckitWin"],
+  "credits": "Мод пренадлежит проекту ArcaneWorld"
+}]
